@@ -12,12 +12,6 @@ summary: 您可以使用版本选择器在最新版本和以前的四个版本�
 
 
 [role="lead"]
-您可以使用版本选择器在最新版本和以前的四个版本之间导航、也可以使用以下链接。
-
-
-
-== 早期版本
-
 如果您未运行Asta Trident 23.10、则可通过获取先前版本的文档 link:get-help.html["Astra三端支持生命周期"]。
 
 * https://docs.netapp.com/us-en/trident-2307/index.html["A作用 三排版23.07"^]
@@ -29,10 +23,4 @@ summary: 您可以使用版本选择器在最新版本和以前的四个版本�
 * https://docs.netapp.com/us-en/trident-2201/index.html["Asta三排版22.01."^]
 * https://docs.netapp.com/us-en/trident-2110/index.html["Asta三打21.10."^]
 * https://docs.netapp.com/us-en/trident-2107/index.html["Astra Trident 21.07"^]
-
-
-21.07之前的版本、重定向到旧版文档站点。
-
-* https://netapp-trident.readthedocs.io/en/stable-v21.04/["Asta三排版21.04"^]
-* https://netapp-trident.readthedocs.io/en/stable-v21.01/["Asta三排版21.01"^]
 
