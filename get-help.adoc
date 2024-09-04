@@ -73,21 +73,6 @@ link:https://docs.netapp.com/us-en/trident-2201/index.html["22.01."^]
  a| 
 link:https://docs.netapp.com/us-en/trident-2110/index.html["21.10."^]
 | -- | -- | 2024年10月 
-
-
- a| 
-link:https://docs.netapp.com/us-en/trident-2107/index.html["21.07."^]
-| -- | -- | 2024年7月 
-
-
- a| 
-link:https://netapp-trident.readthedocs.io/en/stable-v21.04/["21.04."^]
-| -- | -- | 2024年4月 
-
-
- a| 
-link:https://netapp-trident.readthedocs.io/en/stable-v21.01/["21.01."^]
-| -- | -- | 2024年1月 
 |===
 
 NOTE: 21.07之前的版本、重定向到旧版文档站点。
